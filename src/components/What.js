@@ -10,8 +10,8 @@ const What = () => {
         <div className='my-20 flex justify-center'>
                 <div className='flex flex-wrap justify-around gap-x-24 gap-y-7'>
                     <div>
-                        <div className='absolute bg-transparent border-2 rounded-[16px] border-white w-[300px] h-[200px]'></div>
-                        <div className='hover:-translate-x-3 hover:-translate-y-3 transform transition-transform duration-200 ease-in-out gloss w-[300px] h-[200px] px-10 py-10 flex justify-center'>
+                        <div className='whatWhiteCornerCutBtn rounded-[3px] absolute bg-transparent border-2 rounded-[16px] border-white w-[300px] h-[200px]'></div>
+                        <div className='whatCornerCutBtn rounded-[3px] hover:-translate-x-3 hover:-translate-y-3 transform transition-transform duration-200 ease-in-out gloss w-[300px] h-[200px] px-10 py-10 flex justify-center'>
                             <div className='flex flex-col justify-center'>
                                 <CampaignIcon className='m-auto text-white !text-6xl' />
                                 <h2 className='text-white font-bold text-2xl text-center'>PROMOTE</h2>
@@ -19,8 +19,8 @@ const What = () => {
                         </div>
                     </div>
                     <div>
-                        <div className='absolute bg-transparent border-2 rounded-[16px] border-white w-[300px] h-[200px]'></div>
-                        <div className='hover:-translate-x-3 hover:-translate-y-3 transform transition-transform duration-200 ease-in-out gloss w-[300px] h-[200px] px-10 py-10 flex justify-center'>
+                        <div className='whatWhiteCornerCutBtn rounded-[3px] absolute bg-transparent w-[300px] h-[200px]'></div>
+                        <div className='whatCornerCutBtn rounded-[3px] hover:-translate-x-3 hover:-translate-y-3 transform transition-transform duration-200 ease-in-out gloss w-[300px] h-[200px] px-10 py-10 flex justify-center'>
                             <div className='flex flex-col justify-center'>
                                 <PushPinIcon className='m-auto text-white !text-6xl' />
                                 <h2 className='text-white font-bold text-2xl text-center'>NOTICE</h2>
@@ -28,8 +28,8 @@ const What = () => {
                         </div>
                     </div>
                     <div>
-                        <div className='absolute bg-transparent border-2 rounded-[16px] border-white w-[300px] h-[200px]'></div>
-                        <div className='hover:-translate-x-3 hover:-translate-y-3 transform transition-transform duration-200 ease-in-out gloss w-[300px] h-[200px] px-10 py-10 flex justify-center'>
+                        <div className='whatWhiteCornerCutBtn rounded-[3px] absolute bg-transparent border-2 rounded-[16px] border-white w-[300px] h-[200px]'></div>
+                        <div className='whatCornerCutBtn rounded-[3px] hover:-translate-x-3 hover:-translate-y-3 transform transition-transform duration-200 ease-in-out gloss w-[300px] h-[200px] px-10 py-10 flex justify-center'>
                             <div className='flex flex-col justify-center'>
                                 <ConnectWithoutContactIcon className='m-auto text-white !text-6xl' />
                                 <h2 className='text-white font-bold text-2xl text-center'>CONNECT</h2>
