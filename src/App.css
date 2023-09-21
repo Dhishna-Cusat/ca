@@ -38,7 +38,7 @@
 }
 
 .btnBox {
-  clip-path: polygon(92% 0%, 100% 25%, 100% 100%, 8% 100%, 0% 75%, 0% 0%) 
+  clip-path: polygon(92% 0%, 100% 25%, 100% 100%, 8% 100%, 0% 75%, 0% 0%);
 }
 
 .gloss{
@@ -50,9 +50,8 @@
   opacity: 90%;
 }
 
-.spacebg{
-  background: url('assets/spacebg.png');
+.spacebg {
+  background: url("assets/spacebg.png");
   background-size: cover;
   background-repeat: no-repeat;
-
 }
